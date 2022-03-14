@@ -1,3 +1,7 @@
 Some text 
+changes
 chnages master - new changes
+
+Text from master: new changes!
+
 
